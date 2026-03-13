@@ -1,4 +1,7 @@
-// Base class
+//Problem Statement:
+//Develop an inheritance-based Cricket Match system using command line arguments to input team names and 
+//scores and display the match result.
+//Base class
 class Match {
 
     String team1;
