@@ -1,3 +1,5 @@
+//Problem Statement:
+//Implement a BankAccount class in Java that performs basic banking operations such as deposit, withdraw, and balance inquiry.
 import java.util.Scanner;
 
 // BankAccount class
