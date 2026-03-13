@@ -1,3 +1,6 @@
+//Problem Statement:
+//Create a Java program that demonstrates custom exception handling for a bank withdrawal scenario when the withdrawal amount
+//exceeds the available balance.
 import java.util.Scanner;
 
 // Custom Exception Class
