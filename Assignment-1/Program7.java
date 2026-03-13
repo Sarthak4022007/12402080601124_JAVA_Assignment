@@ -1,5 +1,6 @@
 // Demonstration of Inner Classes
-
+//Problem Statement:
+//Write a Java program demonstrating member inner class, local inner class, and anonymous inner class.
 class OuterClass {
 
     int x = 10;
