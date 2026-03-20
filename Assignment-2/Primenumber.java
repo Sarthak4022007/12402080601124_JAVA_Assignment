@@ -33,7 +33,7 @@ class PrimeTask implements Runnable {
     }
 }
 
-public class Program1 {
+public class Primenumber {
 
     public static void main(String[] args) {
 
